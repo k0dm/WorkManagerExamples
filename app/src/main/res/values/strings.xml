@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">WorkManagerExamples</string>
+    <string name="stop">Stop</string>
+    <string name="start">Start</string>
+    <string name="resume">Resume</string>
+    <string name="reset">Reset</string>
+    <string name="_0">0</string>
+    <string name="stopwatch">Stopwatch</string>
+    <string name="notification_channel_id">stopwatch_notification</string>
 </resources>
